@@ -1,3 +1,7 @@
+# 💫About Me :
+Hey there, im Vidal from colombia and i like to code a lot.
+4to semester System Engineering student at Universidad de la costa.
+I also love to play video games and im currently playing gta 6.
 
 ## 🌐Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/idkk_vidal.) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/idkk_vidal)  [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/xxwinterfallxx3) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/prooniebles7927) 
